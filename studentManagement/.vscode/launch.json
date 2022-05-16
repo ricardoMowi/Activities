@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CreateProductApplication<createProduct>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.nttdata.createProduct.CreateProductApplication",
+            "projectName": "createProduct",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-StudentManagementApplication<createProduct>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.nttdata.studentManagement.StudentManagementApplication",
+            "projectName": "createProduct",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
